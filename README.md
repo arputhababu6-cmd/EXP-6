@@ -33,7 +33,7 @@ OUTPUT
 
 <img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/ef1e28b1-df84-42fd-b78e-25194cf85561" />
 
-PRECAUTION: -
+PRECAUTION: 
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
