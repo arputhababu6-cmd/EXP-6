@@ -29,6 +29,7 @@ OBSERVATION TABLE
 OUTPUT
 <img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/56a45a8b-6a9d-4ec7-8f58-c1e99f5d0198" /\
 <img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/ef1e28b1-df84-42fd-b78e-25194cf85561" />
+
 PRECAUTION: 
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
