@@ -27,7 +27,8 @@ OBSERVATION TABLE
 <img width="567" height="827" alt="image" src="https://github.com/user-attachments/assets/1867cba2-aa10-4dbc-b0a6-2637a84d6680" />
 
 OUTPUT
-<img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/56a45a8b-6a9d-4ec7-8f58-c1e99f5d0198" /\
+<img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/30a26006-9d87-41b8-b352-b5ef3528981f" />
+
 <img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/ef1e28b1-df84-42fd-b78e-25194cf85561" />
 
 PRECAUTION: 
